@@ -1,12 +1,13 @@
 # 👨‍💻 Portfólio de Gustavo B Brizolla
 
-Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor, com foco em **Desenvolvimento Web** e algumas praticas de **DevOps**. Aqui, você encontrará uma seleção dos meus projetos e habilidades, refletindo minha experiência em diversas áreas da tecnologia.
+Bem-vindo ao meu portfólio no GitHub!
+Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou formado em **Ciência da Computação** pela **Uno Chapecó**, e atualmente estou me especializando em **DevOps** na **Alura Cursos**. Com **3 anos de experiência** na área de **Tecnologia da Informação**, sou apaixonado por criar soluções escaláveis e eficientes. Meu objetivo é sempre buscar melhorias contínuas e aplicar boas práticas de desenvolvimento.
+Sou estudante de Sistemas de Informação pela UNOChapecó e atualmente estou me especializando em DevOps e Desenvolvimento Web pela Alura Cursos. Com 3 anos de experiência na área de Tecnologia da Informação, sou apaixonado por criar soluções escaláveis e eficientes. Meu objetivo é sempre buscar melhorias contínuas e aplicar boas práticas de desenvolvimento.
 
 ## 💻 Tecnologias que Uso
 
