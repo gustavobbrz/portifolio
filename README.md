@@ -1,6 +1,6 @@
 # 👨‍💻 Portfólio de Gustavo B Brizolla
 
-Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por **Tecnologia da Informação**, com foco em **Desenvolvimento Web** e **DevOps**. Aqui, você encontrará uma seleção dos meus projetos e habilidades, refletindo minha experiência em diversas áreas da tecnologia.
+Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor, com foco em **Desenvolvimento Web** e algumas praticas de **DevOps**. Aqui, você encontrará uma seleção dos meus projetos e habilidades, refletindo minha experiência em diversas áreas da tecnologia.
 
 ---
 
