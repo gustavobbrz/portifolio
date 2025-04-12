@@ -1,49 +1,65 @@
-# 👨‍💻 Portfólio de Gustavo B Brizolla
+# 👨‍💻 Gustavo B. Brizolla  
 
-Bem-vindo ao meu portfólio no GitHub!
-Sou desenvolvedor com foco em Desenvolvimento Web e conhecimentos em práticas de DevOps. Aqui você encontrará uma seleção dos meus projetos e habilidades, que refletem minha experiência em diferentes áreas da tecnologia.
+**`Desenvolvedor Web Full Stack | DevOps Enthusiast`**  
+
+Olá! Sou um desenvolvedor apaixonado por criar soluções web robustas e escaláveis. Com expertise em desenvolvimento frontend e backend, além de conhecimentos em práticas DevOps para otimizar o ciclo de vida do desenvolvimento de software.  
+
+🔭 Atualmente trabalhando em projetos desafiadores com React, Node.js e Docker  
+🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes  
+💡 Interesses: Web Performance, Clean Code e CI/CD Pipelines  
+
+
+## 🛠 Stack Tecnológica
+
+### Frontend
+<p align="left">
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+</p>
+
+### Backend & DevOps
+<p align="left">
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavobbrz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobbrz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavobbrz&theme=radical&hide_border=true" alt="gustavobbrz" />
+</p>
 
 ---
 
-## 🚀 Sobre Mim
+## 🌍 Conecte-se Comigo
 
-Sou estudante de Sistemas de Informação pela UNOChapecó e atualmente estou me especializando em DevOps e Desenvolvimento Web pela Alura Cursos. Com 3 anos de experiência na área de Tecnologia da Informação, sou apaixonado por criar soluções escaláveis e eficientes. Meu objetivo é sempre buscar melhorias contínuas e aplicar boas práticas de desenvolvimento.
-
-## 💻 Tecnologias que Uso
-
-Aqui estão as tecnologias e ferramentas que mais utilizo em meus projetos:
-
-### Front-End
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### Back-End
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-
-### Banco de Dados
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### DevOps e Cloud
-- ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-7A61E1?logo=terraform&logoColor=white)
-
-### Sistemas Operacionais
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-## 📬 Contato
-
-Se você está interessado em conversar sobre oportunidades de trabalho, colaborações ou apenas quer bater um papo sobre tecnologia, entre em contato comigo!
-
-- **E-mail:** gustavobellobrizolla@hotmail.com - helpsamp1@gmail.com
-- **LinkedIn:**(https://www.linkedin.com/in/gustavo-brizolla/)
-- **GitHub:**  (https://github.com/gustavobbrz)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavobbrz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="helpsamp1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/backsidekickflip" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
+
+⭐️ De [gustavobbrz](https://github.com/gustavobbrz)  
 
